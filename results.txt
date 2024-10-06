@@ -1,0 +1,473 @@
+Pattern 1:
+Pattern 1: creating 8 processes
+Process 0 (pid 17901) beginning
+Process 0 (pid 17901): sleeping for 3 seconds...
+Process 0 (pid 17901): exiting
+Pattern 1: creating 8 processes
+Parent: created child 0 (pid 17901)
+Parent: created child 1 (pid 17901)
+Parent: created child 2 (pid 17901)
+Parent: created child 3 (pid 17901)
+Parent: created child 4 (pid 17901)
+Parent: created child 5 (pid 17901)
+Parent: created child 6 (pid 17901)
+Parent: created child 7 (pid 17901)
+** Pattern 1: All children have exited
+
+Pattern 2:
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Child 5 (pid 17955): starting
+Child 5 (pid 17955), sleeping 9 seconds after creating child 4
+Pattern 2: creating 4 processes
+Child 4 (pid 17957): starting
+Child 4 (pid 17957), sleeping 9 seconds after creating child 3
+Pattern 2: creating 3 processes
+Child 3 (pid 17959): starting
+Child 3 (pid 17959), sleeping 9 seconds after creating child 2
+Pattern 2: creating 2 processes
+Child 2 (pid 17969): starting
+Child 2 (pid 17969), sleeping 9 seconds after creating child 1
+Pattern 2: creating 1 processes
+Child 1 (pid 17977): starting
+Child 1 (pid 17977) [no children created] sleeping 9 seconds
+Child 1 (pid 17977) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Child 5 (pid 17955): starting
+Child 5 (pid 17955), sleeping 9 seconds after creating child 4
+Pattern 2: creating 4 processes
+Child 4 (pid 17957): starting
+Child 4 (pid 17957), sleeping 9 seconds after creating child 3
+Pattern 2: creating 3 processes
+Child 3 (pid 17959): starting
+Child 3 (pid 17959), sleeping 9 seconds after creating child 2
+Pattern 2: creating 2 processes
+Child 2 (pid 17969): starting
+Child 2 (pid 17969), sleeping 9 seconds after creating child 1
+Pattern 2: creating 1 processes
+Parent: child 1 (pid 17977) has exited
+Child 2 (pid 17969) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Child 5 (pid 17955): starting
+Child 5 (pid 17955), sleeping 9 seconds after creating child 4
+Pattern 2: creating 4 processes
+Child 4 (pid 17957): starting
+Child 4 (pid 17957), sleeping 9 seconds after creating child 3
+Pattern 2: creating 3 processes
+Child 3 (pid 17959): starting
+Child 3 (pid 17959), sleeping 9 seconds after creating child 2
+Pattern 2: creating 2 processes
+Parent: child 2 (pid 17969) has exited
+Child 3 (pid 17959) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Child 5 (pid 17955): starting
+Child 5 (pid 17955), sleeping 9 seconds after creating child 4
+Pattern 2: creating 4 processes
+Child 4 (pid 17957): starting
+Child 4 (pid 17957), sleeping 9 seconds after creating child 3
+Pattern 2: creating 3 processes
+Parent: child 3 (pid 17959) has exited
+Child 4 (pid 17957) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Child 5 (pid 17955): starting
+Child 5 (pid 17955), sleeping 9 seconds after creating child 4
+Pattern 2: creating 4 processes
+Parent: child 4 (pid 17957) has exited
+Child 5 (pid 17955) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Child 6 (pid 17950): starting
+Child 6 (pid 17950), sleeping 9 seconds after creating child 5
+Pattern 2: creating 5 processes
+Parent: child 5 (pid 17955) has exited
+Child 6 (pid 17950) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Child 7 (pid 17948): starting
+Child 7 (pid 17948), sleeping 9 seconds after creating child 6
+Pattern 2: creating 6 processes
+Parent: child 6 (pid 17950) has exited
+Child 7 (pid 17948) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Child 8 (pid 17944): starting
+Child 8 (pid 17944), sleeping 9 seconds after creating child 7
+Pattern 2: creating 7 processes
+Parent: child 7 (pid 17948) has exited
+Child 8 (pid 17944) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Child 9 (pid 17930): starting
+Child 9 (pid 17930), sleeping 9 seconds after creating child 8
+Pattern 2: creating 8 processes
+Parent: child 8 (pid 17944) has exited
+Child 9 (pid 17930) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Child 10 (pid 17925): starting
+Child 10 (pid 17925), sleeping 9 seconds after creating child 9
+Pattern 2: creating 9 processes
+Parent: child 9 (pid 17930) has exited
+Child 10 (pid 17925) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Child 11 (pid 17923): starting
+Child 11 (pid 17923), sleeping 9 seconds after creating child 10
+Pattern 2: creating 10 processes
+Parent: child 10 (pid 17925) has exited
+Child 11 (pid 17923) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Child 12 (pid 17921): starting
+Child 12 (pid 17921), sleeping 9 seconds after creating child 11
+Pattern 2: creating 11 processes
+Parent: child 11 (pid 17923) has exited
+Child 12 (pid 17921) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Child 13 (pid 17919): starting
+Child 13 (pid 17919), sleeping 9 seconds after creating child 12
+Pattern 2: creating 12 processes
+Parent: child 12 (pid 17921) has exited
+Child 13 (pid 17919) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Child 14 (pid 17917): starting
+Child 14 (pid 17917), sleeping 9 seconds after creating child 13
+Pattern 2: creating 13 processes
+Parent: child 13 (pid 17919) has exited
+Child 14 (pid 17917) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Child 15 (pid 17915): starting
+Child 15 (pid 17915), sleeping 9 seconds after creating child 14
+Pattern 2: creating 14 processes
+Parent: child 14 (pid 17917) has exited
+Child 15 (pid 17915) exiting.
+Pattern 2: creating 16 processes
+Child 16 (pid 17913): starting
+Child 16 (pid 17913), sleeping 9 seconds after creating child 15
+Pattern 2: creating 15 processes
+Parent: child 15 (pid 17915) has exited
+Child 16 (pid 17913) exiting.
+Pattern 2: creating 16 processes
+Parent: child 16 (pid 17913) has exited
