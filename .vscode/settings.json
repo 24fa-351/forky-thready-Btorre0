@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "patterns.h": "c",
+        "wait.h": "c",
+        "time.h": "c",
+        "stdio.h": "c"
+    }
+}
